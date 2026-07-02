@@ -1,0 +1,10 @@
+{
+  "name": "fablemax-nba-3d",
+  "version": "1.0.0",
+  "description": "FableMax NBA 3D — a realistic 5v5 arcade basketball simulation for the browser",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 8000 || npx serve -l 8000 ."
+  }
+}
